@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuickQuotes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title1">Discover Fascinating Psychology Facts</string>
+    <string name="title2">Daily Mind-Blowing Facts</string>
+    <string name="title3">Boost Your Knowledge</string>
+    <string name="description1">Dive into the world of psychology with our app. Uncover intriguing facts and insights about the human mind and behavior. Get ready to be amazed by what you will learn.</string>
+    <string name="description2">Receive a new psychological fact every day. Our app is designed to keep your curiosity piqued and your mind engaged with fascinating tidbits of psychological knowledge.</string>
+    <string name="description3">Enhance your understanding of psychology with carefully curated facts and explanations. Perfect for students, enthusiasts, and anyone eager to learn more about the complexities of the human psyche.</string>
+
+
+</resources>

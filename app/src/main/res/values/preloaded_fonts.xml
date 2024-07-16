@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amarante</item>
+        <item>@font/andika_new_basic</item>
+        <item>@font/baloo</item>
+        <item>@font/charm</item>
+        <item>@font/chicle</item>
+        <item>@font/ewert</item>
+        <item>@font/nova_round</item>
+        <item>@font/poppins</item>
+        <item>@font/poppins_bold</item>
+        <item>@font/poppins_light</item>
+        <item>@font/poppins_semibold</item>
+    </array>
+</resources>

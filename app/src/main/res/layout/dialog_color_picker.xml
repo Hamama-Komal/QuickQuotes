@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/powder"
+    android:padding="10dp">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textNone"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:gravity="center"
+                android:text="None"
+                android:textSize="12sp"
+                android:background="@drawable/button_bg" />
+
+            <View
+                android:id="@+id/colorCream"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/cream" />
+
+
+            <View
+                android:id="@+id/colorPeach"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/peach" />
+
+            <View
+                android:id="@+id/colorMint"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/mint" />
+
+            <View
+                android:id="@+id/colorTea"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/tea" />
+
+            <View
+                android:id="@+id/colorPink"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/pink" />
+
+            <View
+                android:id="@+id/colorWheat"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/wheat" />
+
+            <View
+                android:id="@+id/colorBrown"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/brown" />
+
+
+            <View
+                android:id="@+id/colorGrey"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/grey" />
+
+            <View
+                android:id="@+id/colorYellow"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/amber" />
+
+            <View
+                android:id="@+id/colorOrange"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/orange" />
+
+            <View
+                android:id="@+id/colorPurple"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/purple" />
+
+            <View
+                android:id="@+id/colorMyRed"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/red" />
+
+            <View
+                android:id="@+id/colorBlue"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/royal" />
+
+            <View
+                android:id="@+id/colorBlack"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/black" />
+
+            <View
+                android:id="@+id/colorWhite"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@color/white" />
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/gradiant1"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/grediant1" />
+
+            <View
+                android:id="@+id/gradiant2"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/gradient2" />
+            <View
+                android:id="@+id/gradiant3"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/gradient3" />
+            <View
+                android:id="@+id/gradiant4"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/gradient4" />
+            <View
+                android:id="@+id/gradiant5"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/gradient5" />
+            <View
+                android:id="@+id/gradiant6"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/gradient6" />
+            <View
+                android:id="@+id/gradiant7"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/gradient7" />
+            <View
+                android:id="@+id/gradiant8"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/gradient8" />
+            <View
+                android:id="@+id/gradiant9"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="8dp"
+                android:background="@drawable/gradient9" />
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,122 @@
+[
+    {
+        "imgUrl": "https://i.pinimg.com/474x/4c/42/42/4c4242913f34488f0d4d043bdfaaf3d4.jpg",
+        "name": "Inspirational Quotes",
+        "key": "insp",
+        "quotes": [
+            "The only way to do great work is to love what you do. - Steve Jobs",
+            "The best time to plant a tree was 20 years ago. The second best time is now.",
+            "Your time is limited, so don't waste it living someone else's life. - Steve Jobs"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/474x/2b/3c/c1/2b3cc12ca218b8655a6ada0c32d288a3.jpg",
+        "name": "Love Quotes",
+        "key": "love",
+        "quotes": [
+            "Love is composed of a single soul inhabiting two bodies. - Aristotle",
+            "The best thing to hold onto in life is each other. - Audrey Hepburn",
+            "To love and be loved is to feel the sun from both sides. - David Viscott"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/474x/8e/a0/ce/8ea0ce7c29eb225c9634c7d656ec6b65.jpg",
+        "name": "Life Quotes",
+        "key": "life",
+        "quotes": [
+            "Life is what happens when you're busy making other plans. - John Lennon",
+            "Get busy living or get busy dying. - Stephen King",
+            "You have within you right now, everything you need to deal with whatever the world can throw at you. - Brian Tracy"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/564x/92/62/7b/92627b0dde135866ecb0149a6c7743e8.jpg",
+        "name": "Friendship Quotes",
+        "key": "frnd",
+        "quotes": [
+            "A friend is someone who knows all about you and still loves you. - Elbert Hubbard",
+            "Friendship is born at that moment when one person says to another, ‘What! You too? I thought I was the only one.’ - C.S. Lewis",
+            "True friendship comes when the silence between two people is comfortable. - David Tyson"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/474x/44/58/02/445802da400421b82afa8349134fe425.jpg",
+        "name": "Humor Quotes",
+        "key": "humr",
+        "quotes": [
+            "I am so clever that sometimes I don’t understand a single word of what I am saying. - Oscar Wilde",
+            "I find television very educating. Every time somebody turns on the set, I go into the other room and read a book. - Groucho Marx",
+            "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. - Albert Einstein"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/474x/d5/7a/c8/d57ac834ce087dadb608f8492f04c36a.jpg",
+        "name": "Success Quotes",
+        "key": "succ",
+        "quotes": [
+            "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer",
+            "Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau",
+            "Don't be afraid to give up the good to go for the great. - John D. Rockefeller"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/474x/03/3d/e3/033de3079c5a4d6e9e57e495931449e6.jpg",
+        "name": "Wisdom Quotes",
+        "key": "wis",
+        "quotes": [
+            "It is not the man who has too little, but the man who craves more, that is poor. - Seneca",
+            "The only true wisdom is in knowing you know nothing. - Socrates",
+            "In the end, it’s not the years in your life that count. It’s the life in your years. - Abraham Lincoln"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/474x/36/cd/c2/36cdc28af8c2dd38c3c9e8e5590b2c2b.jpg",
+        "name": "Motivational Quotes",
+        "key": "motiv",
+        "quotes": [
+            "The way to get started is to quit talking and begin doing. - Walt Disney",
+            "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty. - Winston Churchill",
+            "Don’t let yesterday take up too much of today. - Will Rogers"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/474x/c0/02/f7/c002f7a977c11bb48d80bee1eba83d50.jpg",
+        "name": "Happiness Quotes",
+        "key": "happy",
+        "quotes": [
+            "Happiness is not something ready made. It comes from your own actions. - Dalai Lama",
+            "The purpose of our lives is to be happy. - Dalai Lama",
+            "Happiness is the secret to all beauty. There is no beauty without happiness. - Christian Dior"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/474x/fe/4f/09/fe4f097bd149ef652b88def7b1333343.jpg",
+        "name": "Sad Quotes",
+        "key": "sad",
+        "quotes": [
+            "Tears are words that need to be written. - Paulo Coelho",
+            "Every human walks around with a certain kind of sadness. They may not wear it on their sleeves, but it's there if you look deep. - Taraji P. Henson",
+            "The word 'happy' would lose its meaning if it were not balanced by sadness. - Carl Jung"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/474x/21/86/bc/2186bc09ee4b3f462f08216680bc8549.jpg",
+        "name": "Philosophical Quotes",
+        "key": "phil",
+        "quotes": [
+            "The unexamined life is not worth living. - Socrates",
+            "I think, therefore I am. - René Descartes",
+            "He who has a why to live can bear almost any how. - Friedrich Nietzsche"
+        ]
+    },
+    {
+        "imgUrl": "https://i.pinimg.com/474x/c2/13/37/c213379e10feed4b0a1d63ac61060abe.jpg",
+        "name": "Funny Quotes",
+        "key": "fun",
+        "quotes": [
+            "I’m not arguing, I’m just explaining why I’m right.",
+            "People say nothing is impossible, but I do nothing every day. - A.A. Milne",
+            "If you think you are too small to be effective, you have never been in the dark with a mosquito. - Betty Reese"
+        ]
+    }
+]
